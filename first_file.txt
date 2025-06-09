@@ -2,3 +2,4 @@ this is first text file in the git_fafo directory
 adding extra lines 
 
 lets change something 
+checking changes 
