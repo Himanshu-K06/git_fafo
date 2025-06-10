@@ -1,1 +1,3 @@
 this is a fixes file 
+
+fix checking our upstrem setup 
