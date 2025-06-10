@@ -1,3 +1,6 @@
 this is a fixes file 
 
 this is third change 
+
+pink mode integration fix 
+pink mode butt fix
